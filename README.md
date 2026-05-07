@@ -1,10 +1,13 @@
-<img width="632" height="346" alt="image" src="https://github.com/user-attachments/assets/df693539-f074-46a3-9a4a-70800233b2fa" /># Dashboard de tracking — referidos
+# Dashboard de tracking — referidos
+<img width="573" height="299" alt="image" src="https://github.com/user-attachments/assets/6fc88566-a997-459b-8072-196aa05e0e88" />
 
 **Herramientas:** Power BI Desktop · DAX · Power Query  
 **Dataset:** Referidos Mock Data
 
 ## Vista previa
-<img width="632" height="346" alt="image" src="https://github.com/user-attachments/assets/d6d80dd1-70b7-48e4-be5b-d1ea202ff50d" />
+<img width="575" height="323" alt="image" src="https://github.com/user-attachments/assets/277a4ff2-3c37-4b2f-bb61-bf1a56d58734" />
+<img width="571" height="322" alt="image" src="https://github.com/user-attachments/assets/e0ee83af-522b-4031-922d-97211b261975" />
+
 
 
 ## Qué muestra
